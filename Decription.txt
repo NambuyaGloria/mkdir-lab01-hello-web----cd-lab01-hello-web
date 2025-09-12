@@ -1,0 +1,1 @@
+This is a simple UCU noticeboard page that displays latest news, upcoming events,contact form and navigation links.
