@@ -1,0 +1,15 @@
+Apps and softwares installed
+1. Github
+2. Git
+3. Vs code
+4. Extensions like Github copilot
+5.Slack
+6.Node.js
+
+steps taken
+1.Created a Repository on Gitbub
+2.created a main branch and merged it 
+3.created a Git set up and folder creations
+4.Pull Requests
+5.setting up git and running several commands
+
